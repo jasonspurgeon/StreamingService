@@ -1,0 +1,102 @@
+Timestamp,Gender,Streaming_Service,Minutes_Spent_Per_Day,Number_Of_Streaming_Services
+10/29/2023 17:01:08,,,10,7
+10/31/2023 9:19:19,Male,Netflix,92,2
+10/31/2023 9:20:18,Male,Amazon Prime,65,3
+10/31/2023 9:24:41,Female,Disney +,68,4
+10/31/2023 9:24:58,Male,Hulu,60,3
+10/31/2023 9:25:15,Male,Netflix,32,2
+10/31/2023 9:25:42,Male,Netflix,6,1
+10/31/2023 9:25:53,Male,Netflix,420,3
+10/31/2023 9:25:55,Female,Hulu,46,1
+10/31/2023 9:26:25,Male,Hulu,98,5
+10/31/2023 9:26:29,Male,Hulu,120,4
+10/31/2023 9:26:56,Female,Amazon Prime,97,3
+10/31/2023 9:27:26,Male,Netflix,240,5
+10/31/2023 9:27:29,Female,Netflix,54,5
+10/31/2023 9:27:29,Male,Netflix,45,1
+10/31/2023 9:27:40,Male,Netflix,30,2
+10/31/2023 9:27:52,Male,Netflix,120,6
+10/31/2023 9:27:59,Male,Netflix,1,2
+10/31/2023 9:28:22,Female,Netflix,68,2
+10/31/2023 9:28:33,Male,Hulu,6,5
+10/31/2023 9:28:35,Female,Netflix,65,2
+10/31/2023 9:28:36,Male,Hulu,120,2
+10/31/2023 9:28:53,Female,Amazon Prime,129,4
+10/31/2023 9:29:22,Female,Hulu,80,1
+10/31/2023 9:29:24,Female,Disney +,56,3
+10/31/2023 9:29:33,Female,Netflix,75,4
+10/31/2023 9:29:35,Female,Netflix,30,1
+10/31/2023 9:30:09,Male,Netflix,420,7
+10/31/2023 9:30:25,Male,Netflix,61,3
+10/31/2023 9:34:40,Male,Disney +,60,5
+10/31/2023 9:38:57,Male,Netflix,84,5
+10/31/2023 9:41:54,Male,Netflix,30,1
+10/31/2023 9:43:44,Male,Netflix,2,34
+10/31/2023 9:46:27,Female,Netflix,60,4
+10/31/2023 9:51:33,Male,Netflix,60,2
+10/31/2023 9:52:41,Male,Netflix,60,3
+10/31/2023 9:54:12,Male,Disney +,62,6
+10/31/2023 10:02:38,Male,Netflix,30,2
+10/31/2023 10:12:14,Male,Netflix,20,1
+10/31/2023 10:14:57,Male,Netflix,30,1
+10/31/2023 10:15:32,Male,Netflix,60,4
+10/31/2023 10:56:01,Male,Amazon Prime,30,1
+10/31/2023 10:56:09,Female,Netflix,90,2
+10/31/2023 12:23:53,Male,Disney +,60,7
+10/31/2023 16:05:42,Female,Hulu,60,3
+10/31/2023 16:48:49,Male,Netflix,1,0
+10/31/2023 17:40:02,Male,Netflix,240,2
+10/31/2023 18:34:49,Male,Hulu,100,2
+10/31/2023 18:35:09,Female,Amazon Prime,72,1
+10/31/2023 18:58:45,Female,Hulu,65,3
+10/31/2023 19:02:14,Female,Hulu,51,2
+10/31/2023 19:04:46,Male,Netflix,90,5
+10/31/2023 19:14:22,Male,Netflix,60,1
+10/31/2023 19:15:32,Female,Netflix,45,4
+10/31/2023 19:19:46,Male,Hulu,45,2
+10/31/2023 19:20:02,Female,Netflix,88,2
+10/31/2023 19:20:28,Male,Netflix,105,1
+10/31/2023 19:21:08,Male,Hulu,45,1
+10/31/2023 19:21:27,Female,Amazon Prime,68,1
+10/31/2023 19:26:45,Male,Netflix,60,2
+10/31/2023 19:30:38,Female,Hulu,76,4
+10/31/2023 19:33:56,Female,Disney +,90,6
+10/31/2023 19:36:07,Female,Disney +,51,4
+10/31/2023 19:50:35,Female,Disney +,45,2
+10/31/2023 20:02:24,Female,Hulu,43,2
+10/31/2023 20:20:07,Female,Netflix,90,2
+10/31/2023 20:28:33,Female,Disney +,23,1
+10/31/2023 20:32:40,Female,Netflix,88,5
+10/31/2023 20:41:28,Male,Hulu,15,2
+10/31/2023 20:42:50,Female,Hulu,55,5
+10/31/2023 20:47:16,Female,Amazon Prime,25,2
+10/31/2023 20:49:32,Male,Netflix,60,2
+10/31/2023 20:49:48,Male,Netflix,60,0
+10/31/2023 20:49:50,Male,Hulu,20,4
+10/31/2023 20:50:26,Male,Netflix,30,3
+10/31/2023 20:50:42,Male,Netflix,60,2
+10/31/2023 20:51:47,Male,Netflix,75,3
+10/31/2023 20:52:25,Male,Netflix,500,25
+10/31/2023 20:53:57,Male,Hulu,65,3
+10/31/2023 20:55:04,Male,Amazon Prime,60,3
+10/31/2023 20:56:14,Male,Netflix,20,2
+10/31/2023 20:56:15,Female,Netflix,60,5
+10/31/2023 20:56:16,Male,Netflix,180,3
+10/31/2023 20:59:52,Male,Amazon Prime,120,3
+10/31/2023 21:00:57,Male,Amazon Prime,34,3
+10/31/2023 21:03:36,Female,Hulu,70,3
+10/31/2023 21:04:08,Male,Netflix,60,5
+10/31/2023 21:04:11,Male,Netflix,1,3
+10/31/2023 21:07:41,Female,Netflix,53,6
+10/31/2023 21:09:42,Female,Amazon Prime,73,4
+10/31/2023 21:10:23,Male,Netflix,45,4
+10/31/2023 21:11:30,Male,Disney +,60,5
+10/31/2023 21:11:31,Female,Netflix,360,5
+10/31/2023 21:11:58,Male,Netflix,60,3
+10/31/2023 21:12:18,Male,Hulu,45,2
+10/31/2023 21:18:25,Female,Hulu,44,3
+10/31/2023 21:22:48,Female,Disney +,65,2
+10/31/2023 21:27:26,Female,Amazon Prime,78,4
+10/31/2023 21:27:42,Male,Disney +,120,4
+10/31/2023 21:28:43,Male,Netflix,10,2
+10/31/2023 21:29:03,Female,Hulu,103,3
